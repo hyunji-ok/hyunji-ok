@@ -1,5 +1,3 @@
-### 😄 자기소개
-
 <!--
 **hyunji-ok/hyunji-ok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### 😄 자기소개
+
 프로그래머로서 필요한 3가지는 구현 능력, cs 지식, 업무에 관한 지식 및 경험이라고 생각됩니다. 저는 이러한 역량들을 기르기 위해 다음과 같은 노력을 해왔습니다.
 
 첫째, 구현 능력을 기르기 위해 프로그래머스나 백준에서 알고리즘 문제를 다양하게 풀었습니다. 사실상 제가 프로그래머로서 가장 중요하다고 생각되는 부분입니다. 프로그래머에게는 `백문이 불여일타`라는 말이 있습니다. 아무리 많은 이론을 알아도 직접 구현해보지 않으면 구현 역량이 성장하지 않는다는 것입니다. 알고리즘 문제에 맞게 본인 생각하는 로직을 구현해보는 연습을 많이 해보면서 컴퓨팅 사고력이 올라가고 구현 능력이 향상되게 됩니다. 그리고 구현하는 언어에 대해 더욱 자세히 알게 되며 다양한 에러를 디버깅하면서 역량이 많이 올라가게 됩니다. 저는 다양한 문제를 풀어보면서 이러한 역량을 향상하고 있습니다. 제가 풀었던 문제들은 깃허브 및 블로그에 올리고 있습니다. 깃허브 주소는 다음과 같습니다. https://github.com/hyunji-ok
@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 
 셋째, 업무 경험을 쌓기 위해 다양한 노력을 하였습니다. 제가 경험했던 업무는 웹 개발의 백엔드와 인공지능 분야입니다. 웹 개발은 네이버의 부스트코스의 웹 개발 강의를 수강하였으며, spring과 springboot를 이용하여 게시판을 만들어본 경험과 서울특별시에서 인턴 경험이 있습니다. 인공지능 분야는 한국과학기술정보연구원에서 빅데이터 분석가 양성과정을 수료하면서 업무 지식을 쌓았으며, 강화학습을 이용한 주가 분석 프로젝트 경험했습니다. 또한, 컴퓨터비전과 자연어처리 분야에서 인턴을 하면서 업무 경험을 쌓았습니다.
 
+
 ### 🌱 업무 경험
+
 4차산업혁명 시대에 맞게 웹 개발과 인공지능 분야에서 경험을 쌓아왔습니다.
 
 웹 개발 관련 경험은 다음과 같습니다.
@@ -42,6 +44,18 @@ Here are some ideas to get you started:
 
 넷째, 수학을 전공하여 탄탄한 기본을 갖추고 있습니다. 저는 학부는 응용수학을 전공했고, 석사는 수학교육을 전공했습니다. 총 13학기 중에서 10번의 성적 장학금을 받고 다니며 탄탄한 수학적 기초를 증명하였습니다.
 
+
 ### 🔭 STAT
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunji-ok&show_icons=true&theme=radical)
+
+
+<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+</br>
+<p align="center">
+<img src="https://img.shields.io/badge/Java-#007396?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Spring-#6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Spring Boot-#6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a> &nbsp
+
+<img src="https://img.shields.io/badge/Python.js-#3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Keras-#D00000?style=flat-square&logo=Keras&logoColor=white"/></a> &nbsp </p>
