@@ -42,6 +42,6 @@ Here are some ideas to get you started:
 
 넷째, 수학을 전공하여 탄탄한 기본을 갖추고 있습니다. 저는 학부는 응용수학을 전공했고, 석사는 수학교육을 전공했습니다. 총 13학기 중에서 10번의 성적 장학금을 받고 다니며 탄탄한 수학적 기초를 증명하였습니다.
 
-### 🔭 
+### 🔭 STAT
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunji-ok&show_icons=true&theme=radical)
