@@ -41,3 +41,5 @@ Here are some ideas to get you started:
 셋째, 빅데이터 관련 교육을 수료하였습니다. 이를 통해 기상기후, 단백체, 생태환경, 교통 등의 정형 데이터를 다루면서 정형 데이터 분석의 기본 개념을 알게 되었습니다.
 
 넷째, 수학을 전공하여 탄탄한 기본을 갖추고 있습니다. 저는 학부는 응용수학을 전공했고, 석사는 수학교육을 전공했습니다. 총 13학기 중에서 10번의 성적 장학금을 받고 다니며 탄탄한 수학적 기초를 증명하였습니다.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunji-ok&show_icons=true&theme=radical)
