@@ -49,13 +49,3 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunji-ok&show_icons=true&theme=radical)
 
-
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
-</br>
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-#007396?style=flat-square&logo=Java&logoColor=white"/> &nbsp
-  <img src="https://img.shields.io/badge/Spring-#6DB33F?style=flat-square&logo=Spring&logoColor=white"/> &nbsp
-  <img src="https://img.shields.io/badge/Spring Boot-#6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/> &nbsp
-  <img src="https://img.shields.io/badge/Python.js-#3776AB?style=flat-square&logo=Python&logoColor=white"/> &nbsp
-  <img src="https://img.shields.io/badge/Keras-#D00000?style=flat-square&logo=Keras&logoColor=white"/> &nbsp 
-</p>
