@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 피드백을 중요하게 생각합니다.
 
-최근에는 기록을 열심히 하려고 노력중입니다.
+TDD를 중요하게 생각합니다.
 
 ### 🔭 STAT
 
