@@ -41,6 +41,8 @@ Here are some ideas to get you started:
   
 [사용 기술]
 - 주로 Java, Spring, PostgreSQL, Git 등을 사용하였습니다.
+
+
   
 #### 2. SKT 우주 이커머스 프로젝트:
 
