@@ -84,9 +84,7 @@ Here are some ideas to get you started:
 [사용 기술]
 - 주로 Java, SpringBoot, MySQL, Git, Javascript, Vue.js 등을 사용하였습니다.
 
-<hr/>
-
-### 🔭 STAT
+## 🔭 STAT
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunji-ok&show_icons=true&theme=radical)
 
