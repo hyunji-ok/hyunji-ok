@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 [사용 기술]
 - 주로 Java, SpringBoot, PostgreSQL, Git, Javascript, Vue.js 등을 사용하였습니다.
 
-
+<br/>
 
 #### 2. 현대 중고차 이커머스 프로젝트
 
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 [사용 기술]
 - 주로 Java, SpringBoot, PostgreSQL, Git, Javascript 등을 사용하였습니다.
 
-
+<br/>
   
 #### 3. SKT 우주 이커머스 프로젝트:
 
