@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - swagger 및 산출물 작성: swagger 작성 및 사용자 메뉴얼, 프로그램 목록, 정책서 등의 산출물을 작성하여 글로 하는 의사소통을 향상시켰습니다. 
 
 [사용 기술]
-- 주로 Java, SpringBoot, PostgreSQL, Git, Javascript, Vue.js 등을 사용하였습니다.
+- 주로 Javascript, React, Java, SpringBoot, PostgreSQL, Git 등을 사용하였습니다.
 
 <hr/>
 
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 - 팀 교육: 주기적으로 팀원에게 교육을 진행하여 TDD, 객체지향, KPI 산출, 리팩토링 등의 전반적인 개발 스킬을 향상시켰습니다.
   
 [사용 기술]
-- 주로 Java, SpringBoot, PostgreSQL, Git, Javascript 등을 사용하였습니다.
+- 주로 Javascript, JQuery, Java, SpringBoot, PostgreSQL, Git 등을 사용하였습니다.
 
 <hr/>
   
@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 - 장애 해결률: 공식문서, 페어 프로그래밍, 코드 리뷰 등을 활용하여 장애 해결률을 100%로 높여 개발 안정성을 향상시켰습니다.
 
 [사용 기술]
-- 주로 Java, SpringBoot, MySQL, Git, Javascript, Vue.js 등을 사용하였습니다.
+- 주로 Javascript, Vue.js, Java, SpringBoot, MySQL, Git 등을 사용하였습니다.
 
 ## 🔭 STAT
 
