@@ -14,10 +14,8 @@ Here are some ideas to get you started:
 -->
 
 ## 😄 자기소개
-
-- 백엔드 개발자 옥현지입니다.
-- 객체 지향을 중요하게 생각합니다.
-- 테스트 코드를 중요하게 생각합니다.
+- 테스트를 중요하게 생각합니다.
+- 시각화를 통한 의사소통을 중요하게 생각합니다.
 
 
 ## 🌱 경력기술서
@@ -30,6 +28,8 @@ Here are some ideas to get you started:
 - 2023.09 ~ 진행중
 
 [역할]
+- 클레임 담당:
+  - vue.js(nuxt) -> react.js(next)로 마이그레이션을 담당하였습니다.   
 - 프로모션 담당:
   - 마일리지 지급 관리, 마일리지 집계 현황 등을 담당하였습니다.
 
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - swagger 및 산출물 작성: swagger 작성 및 사용자 메뉴얼, 프로그램 목록, 정책서 등의 산출물을 작성하여 글로 하는 의사소통을 향상시켰습니다. 
 
 [사용 기술]
-- 주로 Javascript, React, Java, SpringBoot, PostgreSQL, Git 등을 사용하였습니다.
+- 주로 Javascript, React, next, vue, nuxt, Java, SpringBoot, PostgreSQL, Git 등을 사용하였습니다.
 
 <hr/>
 
