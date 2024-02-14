@@ -44,8 +44,11 @@ Here are some ideas to get you started:
 - 팀 교육: 주기적으로 팀원에게 교육을 진행하여 TDD, 객체지향, KPI 산출, 리팩토링 등의 전반적인 개발 스킬을 향상시켰습니다.
 
 [사용 기술]
-- 주로 Javascript, typescript, React, next.js, vue, nuxt, Java, SpringBoot, PostgreSQL, Git 등을 사용하였습니다.
-
+- FRONT
+  - Javascript, typescript, React, next.js, zustand
+- BACK
+  - Java, SpringBoot, PostgreSQL
+    
 <hr/>
 
 #### 2. 현대 중고차 이커머스 프로젝트
@@ -66,7 +69,10 @@ Here are some ideas to get you started:
 - 팀 교육: 주기적으로 팀원에게 교육을 진행하여 TDD, 객체지향, KPI 산출, 리팩토링 등의 전반적인 개발 스킬을 향상시켰습니다.
   
 [사용 기술]
-- 주로 Javascript, JQuery, Java, SpringBoot, PostgreSQL, Git 등을 사용하였습니다.
+- FRONT
+  - Javascript, JQuery
+- BACK
+  - Java, SpringBoot, PostgreSQL
 
 <hr/>
   
@@ -86,7 +92,10 @@ Here are some ideas to get you started:
 - 장애 해결률: 공식문서, 페어 프로그래밍, 코드 리뷰 등을 활용하여 장애 해결률을 100%로 높여 개발 안정성을 향상시켰습니다.
 
 [사용 기술]
-- 주로 Javascript, Vue.js, Java, SpringBoot, MySQL, Git 등을 사용하였습니다.
+- FRONT
+  - Javascript, Vue.js, Vuetify, vuex
+- BACK
+  - Java, SpringBoot, MySQL
 
 ## 🔭 STAT
 
