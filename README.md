@@ -14,9 +14,15 @@ Here are some ideas to get you started:
 -->
 
 ## 😄 자기소개
-- 테스트를 중요하게 생각합니다.
-- 시각화를 통한 의사소통을 중요하게 생각합니다.
-
+다음과 같은 점을 중요하게 생각합니다.
+  - 시각화를 통한 의사소통을 중요하게 생각합니다.
+  - 테스트를 중요하게 생각합니다.
+  - 새로운 것을 공부하는 것을 중요하게 생각합니다.
+다음과 같은 기술을 보유하고 있습니다.
+  - FRONT
+    - JAVASCRIPT, TYPESCRIPT, NEXT.JS, REACT, ZUSTAND
+  - BACK  
+    - JAVA, SPRING, POSTGRESQL, MYSQL
 
 ## 🌱 경력기술서
 
