@@ -26,7 +26,9 @@ Here are some ideas to get you started:
   - FRONT
     - JAVASCRIPT, TYPESCRIPT, NEXT.JS, REACT, ZUSTAND
   - BACK  
-    - JAVA, SPRING, POSTGRESQL, MYSQL
+    - JAVA, SPRING
+  - DB
+    - POSTGRESQL, MYSQL   
 
 ## 🌱 경력기술서
 
