@@ -40,12 +40,9 @@ Here are some ideas to get you started:
 - 2023.09 ~ 진행중
 
 [역할]
-- 클레임 담당:
-  - 취소 상세, 교환 상세, 보낸 선물함 상세, 받은 선물함 상세 등을 담당하였습니다.
-- 회원 담당:
-  - 아이디 찾기, 환불계좌 관리, 환불계좌 변경 등을 담당하였습니다.   
-- 프로모션 담당:
-  - 마일리지 지급 관리, 마일리지 집계 현황 등을 담당하였습니다.
+- 클레임 담당: 취소 상세, 교환 상세, 보낸 선물함 상세, 받은 선물함 상세 등을 담당하였습니다.
+- 회원 담당: 아이디 찾기, 환불계좌 관리, 환불계좌 변경 등을 담당하였습니다.   
+- 프로모션 담당: 마일리지 지급 관리, 마일리지 집계 현황 등을 담당하였습니다.
 
 [성과]
 - 마이그레이션: vue.js(nuxt) -> react.js(next)로 진행하였습니다.
@@ -58,10 +55,9 @@ Here are some ideas to get you started:
 - 팀 교육: 주기적으로 팀원에게 교육을 진행하여 TDD, 객체지향, KPI 산출, 리팩토링 등의 전반적인 개발 스킬을 향상시켰습니다.
 
 [사용 기술]
-- FRONT
-  - Javascript, typescript, React, next.js, zustand
-- BACK
-  - Java, SpringBoot, PostgreSQL
+- FRONT: Javascript, typescript, React, next.js, zustand
+- BACK: Java, SpringBoot
+- DB: PostgreSQL
     
 <hr/>
 
@@ -71,10 +67,8 @@ Here are some ideas to get you started:
 - 2023.01 ~ 2023.09
 
 [역할]
-- 계약 담당:
-  - 계약 관리, 계약 생성, pricing center 연동, 탁송 지시, 대금 지급 완료 등을 담당하였습니다.
-- 방문 평가 담당:
-  - 전체 방문 평가 관리, 업무요청관리, 방문 평가 설정 팝업, 예약일/평가사 관리 팝업, 평가사 미배정 관리, 평가 완료 관리 등을 책임지고 수행하였습니다.
+- 계약 담당: 계약 관리, 계약 생성, pricing center 연동, 탁송 지시, 대금 지급 완료 등을 담당하였습니다.
+- 방문 평가 담당: 전체 방문 평가 관리, 업무요청관리, 방문 평가 설정 팝업, 예약일/평가사 관리 팝업, 평가사 미배정 관리, 평가 완료 관리 등을 책임지고 수행하였습니다.
     
 [성과]
 - 개발일정 준수율: 개발완료일 준수건 / 개발완료건, 54/54을 유지하여 프로젝트를 100% 성공적으로 완료하였습니다.
@@ -83,10 +77,9 @@ Here are some ideas to get you started:
 - 팀 교육: 주기적으로 팀원에게 교육을 진행하여 TDD, 객체지향, KPI 산출, 리팩토링 등의 전반적인 개발 스킬을 향상시켰습니다.
   
 [사용 기술]
-- FRONT
-  - Javascript, JQuery
-- BACK
-  - Java, SpringBoot, PostgreSQL
+- FRONT: Javascript, JQuery
+- BACK: Java, SpringBoot
+- DB: PostgreSQL
 
 <hr/>
   
@@ -96,8 +89,7 @@ Here are some ideas to get you started:
 - 2022.07 ~ 2023.01
 
 [역할]
-- 주문 담당:
-    - 상품 주문, 교환, 환불, 택배사 연동, SMS 등을 주문 파트에서 책임지고 개발하였습니다.
+- 주문 담당: 상품 주문, 교환, 환불, 택배사 연동, SMS 등을 주문 파트에서 책임지고 개발하였습니다.
 
 [성과]
 - 환경 세팅 문서화: vue 환경 세팅 문서화를 통해 업무 효율을 향상시켰습니다.
@@ -106,10 +98,9 @@ Here are some ideas to get you started:
 - 장애 해결률: 공식문서, 페어 프로그래밍, 코드 리뷰 등을 활용하여 장애 해결률을 100%로 높여 개발 안정성을 향상시켰습니다.
 
 [사용 기술]
-- FRONT
-  - Javascript, Vue.js, Vuetify, vuex
-- BACK
-  - Java, SpringBoot, MySQL
+- FRONT: Javascript, Vue.js, Vuetify, vuex
+- BACK: Java, SpringBoot
+- DB: MySQL
 
 ## 🔭 STAT
 
