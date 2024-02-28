@@ -15,20 +15,13 @@ Here are some ideas to get you started:
 
 ## 😄 자기소개
 - 다음과 같은 점을 중요하게 생각합니다.
-  - 의사소통 관련  
-    - 시각화를 통한 의사소통
-  - 품질 관련
-    - 테스트
-  - 자기개발
-    - 공식문서 읽기
-    - 기술 블로그 찾아보기
+  - 의사소통 관련 :시각화를 통한 의사소통
+  - 품질 관련: 테스트
+  - 자기개발: 공식문서 읽기, 기술 블로그 찾아보기
 - 다음과 같은 기술을 보유하고 있습니다.
-  - FRONT
-    - JAVASCRIPT, TYPESCRIPT, NEXT.JS, REACT, ZUSTAND
-  - BACK  
-    - JAVA, SPRING
-  - DB
-    - POSTGRESQL, MYSQL   
+  - FRONT: JAVASCRIPT, TYPESCRIPT, NEXT.JS, REACT, ZUSTAND
+  - BACK: JAVA, SPRING
+  - DB: POSTGRESQL, MYSQL
 
 ## 🌱 경력기술서
 
