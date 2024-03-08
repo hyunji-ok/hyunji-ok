@@ -1,10 +1,32 @@
-## 플래티어 x2bee 이커머스 solution 프로젝트
+# 플래티어 x2bee 이커머스 solution 프로젝트
 
-### 클레임 파트
-<img src="cancel_detail.png">
-<img src="exchange_detail.png">
-<img src="gift_receive_detail.png">
-<img src="gift_send_detail.png">
 
-### 회원 파트
-<img src="refund_account.png">
+## 클레임 파트
+
+### 주문 취소 현황
+| 이미지                                         |설명|
+|---------------------------------------------|--|
+| <img src="cancel_detail.png" width="170px"> | 주문 취소 현황|
+
+### 교환 현황
+| 이미지                             |설명|
+|---------------------------------|--|
+| <img src="exchange_detail.png" width="170px"> | 교환 현황|
+
+### 받은 선물함 상세
+| 이미지                                 |설명|
+|-------------------------------------|--|
+| <img src="gift_receive_detail.png" width="170px"> | 받은 선물함 상세|
+
+### 보낸 선물함 상세
+| 이미지                              |설명|
+|----------------------------------|--|
+| <img src="gift_send_detail.png" width="170px"> |보낸 선물함 상세|
+
+
+## 회원 파트
+
+### 환불 계좌 관리
+| 이미지                             |설명|
+|---------------------------------|--|
+|<img src="refund_account.png" width="170px">|환불 계좌 관리|
