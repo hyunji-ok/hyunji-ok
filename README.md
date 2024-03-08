@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 #### 1. 플래티어 x2bee 이커머스 solution 프로젝트
 
 [사진]
-- <img src="portpolio/exchange_detail.png">
-- <img src="portpolio/cancel_detail.png">
-- <img src="portpolio/gift_receive_detail.png">
-- <img src="portpolio/gift_send_detail.png">
-- <img src="portpolio/refund_account.png">
+- <img src="portfolio/cancel_detail.png">
+- <img src="portfolio/exchange_detail.png">
+- <img src="portfolio/gift_receive_detail.png">
+- <img src="portfolio/gift_send_detail.png">
+- <img src="portfolio/refund_account.png">
 
 
 [기간]
