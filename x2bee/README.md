@@ -1,11 +1,11 @@
 #### 1. 플래티어 x2bee 이커머스 solution 프로젝트
 
 [사진]
-- <img src="x2bee/cancel_detail.png">
-- <img src="x2bee/exchange_detail.png">
-- <img src="x2bee/gift_receive_detail.png">
-- <img src="x2bee/gift_send_detail.png">
-- <img src="x2bee/refund_account.png">
+- <img src="cancel_detail.png">
+- <img src="exchange_detail.png">
+- <img src="gift_receive_detail.png">
+- <img src="gift_send_detail.png">
+- <img src="refund_account.png">
 
 [기간]
 - 2023.09 ~ 진행중
