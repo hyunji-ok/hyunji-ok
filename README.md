@@ -51,7 +51,10 @@ Here are some ideas to get you started:
 - FRONT: Javascript, typescript, React, next.js, zustand
 - BACK: Java, SpringBoot
 - DB: PostgreSQL
-    
+
+[상세 페이지]
+[상세 페이지 이동](https://github.com/hyunji-ok/hyunji-ok/tree/main/portfolio/README.md)<br>
+
 <hr/>
 
 #### 2. 현대 중고차 이커머스 프로젝트
