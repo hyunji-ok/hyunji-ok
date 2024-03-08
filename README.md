@@ -52,8 +52,8 @@ Here are some ideas to get you started:
 - BACK: Java, SpringBoot
 - DB: PostgreSQL
 
-[상세 페이지]
-- [상세 페이지 이동](https://github.com/hyunji-ok/hyunji-ok/tree/main/x2bee/README.md)<br>
+[작업물]
+- [작업물 둘러보기](https://github.com/hyunji-ok/hyunji-ok/tree/main/x2bee/README.md)<br>
 
 <hr/>
 
