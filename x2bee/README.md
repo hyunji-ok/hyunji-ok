@@ -1,4 +1,4 @@
-#### 1. 플래티어 x2bee 이커머스 solution 프로젝트
+#### 플래티어 x2bee 이커머스 solution 프로젝트
 
 [사진]
 - <img src="cancel_detail.png">
