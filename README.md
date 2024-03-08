@@ -29,6 +29,14 @@ Here are some ideas to get you started:
 
 #### 1. 플래티어 x2bee 이커머스 solution 프로젝트
 
+[사진]
+- <img src="portpolio/exchange_detail.png">
+- <img src="portpolio/cancel_detail.png">
+- <img src="portpolio/gift_receive_detail.png">
+- <img src="portpolio/gift_send_detail.png">
+- <img src="portpolio/refund_account.png">
+
+
 [기간]
 - 2023.09 ~ 진행중
 
@@ -53,7 +61,7 @@ Here are some ideas to get you started:
 - DB: PostgreSQL
 
 [상세 페이지]
-[상세 페이지 이동](https://github.com/hyunji-ok/hyunji-ok/tree/main/portfolio/README.md)<br>
+- [상세 페이지 이동](https://github.com/hyunji-ok/hyunji-ok/tree/main/portfolio/README.md)<br>
 
 <hr/>
 
