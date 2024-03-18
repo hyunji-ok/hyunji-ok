@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 - uml 도입: PlantUML tool을 이용하여 프로젝트에 sequence diagram으로 소통하는 방식을 도입하였습니다.
   또한, 코드로 다이어그램을 작성하여 개발자들과 관리자들이 쉽게 수정 및 보완 할 수 있게 하였습니다.
 - swagger 및 산출물 작성: swagger 작성 및 사용자 메뉴얼, 프로그램 목록, 정책서 등의 산출물을 작성하여 글로 하는 의사소통을 향상시켰습니다. 
-- 개발일정 준수율: 개발완료일 준수건 / 개발완료건, 89/89을 유지하여 프로젝트를 100% 성공적으로 완료하였습니다.
-- 배포당 결함 수: 테스트 코드를 적극적으로 활용하여 배포당 결함 수를 최소화하였고, 결함 건수/배포 건수는 3/21로 유지되었습니다.
+- 개발일정 준수율: 개발완료일 준수건 / 개발완료건, 121/121을 유지하여 프로젝트를 100% 성공적으로 완료하였습니다.
+- 배포당 결함 수: 테스트 코드를 적극적으로 활용하여 배포당 결함 수를 최소화하였고, 결함 건수/배포 건수는 11/121로 유지되었습니다.
 - 장애 해결률: 공식문서, CHAT-GPT, 페어 프로그래밍, 소나 큐브 등을 적극적으로 활용하여 장애 해결률을 100%로 높여 개발 안정성을 향상시켰습니다.
 - 팀 교육: 주기적으로 팀원에게 교육을 진행하여 TDD, 객체지향, KPI 산출, 리팩토링 등의 전반적인 개발 스킬을 향상시켰습니다.
 
@@ -51,9 +51,6 @@ Here are some ideas to get you started:
 - FRONT: Javascript, typescript, React, next.js, zustand
 - BACK: Java, SpringBoot
 - DB: PostgreSQL
-
-[작업물]
-- [작업물 둘러보기](https://github.com/hyunji-ok/hyunji-ok/tree/main/x2bee/README.md)<br>
 
 <hr/>
 
