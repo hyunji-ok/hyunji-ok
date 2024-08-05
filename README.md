@@ -20,18 +20,41 @@ Here are some ideas to get you started:
   - 품질: 테스트를 통한 품질 개선
   - 자기개발: 공식문서 읽기, 기술 블로그 찾아보기
 - 다음과 같은 기술을 보유하고 있습니다.
-  - FRONT: JAVASCRIPT, TYPESCRIPT, NEXT.JS, REACT, ZUSTAND
-  - BACK: JAVA, SPRING
-  - DB: POSTGRESQL, MYSQL
+  - MAIN
+    - FRONT: JAVASCRIPT, TYPESCRIPT, NEXT.JS, REACT, RECOIL, MUI
+  - SUB
+    - BACK: NODE.JS, JAVA, SPRING
+    - DB: POSTGRESQL, MYSQL
+    - DEVOPS: AWS CLOUDFRONT, AWS S3, AWS AMPLIFY, AWS API GATEWAY, AWS LAMBDA
 
 ## 🌱 경력기술서
+
+### 성원애드피아 경력
+
+#### 1. ERP 2.0 개발 프로젝트
+
+[기간]
+- 2024.05 ~ 진행중
+
+[역할]
+- 연차관리 담당: 결재프로세스, 일정목록 및 캘린더 구현, 연차 강제 차감을 담당하였습니다.
+- 근태관리 담당: 외근현황 구현 및 프록시 설정을 담당하였습니다.
+- 수당관리 담당: 초과근무프로세스를 담당하였습니다.
+
+[성과]
+- 개발일정 준수율: 개발완료일 준수건 / 개발완료건, 21/21을 유지하여 프로젝트를 100% 성공적으로 완료하였습니다.
+- 배포당 결함 수: 테스트 코드를 적극적으로 활용하여 배포당 결함 수를 최소화하였고, 결함 건수/배포 건수는 3/21로 유지되었습니다.
+- 장애 해결률: 공식문서, CHAT-GPT, 페어 프로그래밍, 소나 큐브 등을 적극적으로 활용하여 장애 해결률을 100%로 높여 개발 안정성을 향상시켰습니다
+
+[사용 기술]
+- FRONT: Javascript, typescript, React, next.js, recoil, mui
 
 ### 플래티어 경력
 
 #### 1. 플래티어 x2bee 이커머스 solution 프로젝트
 
 [기간]
-- 2023.09 ~ 진행중
+- 2023.09 ~ 2024.05
 
 [역할]
 - 클레임 담당: 취소 상세, 교환 상세, 보낸 선물함 상세, 받은 선물함 상세 등을 담당하였습니다.
