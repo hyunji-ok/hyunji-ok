@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   - 자기개발: 공식문서 읽기, 기술 블로그 찾아보기, 책 읽기
 - 다음과 같은 기술을 보유하고 있습니다.
   - MAIN
-    - FRONT: JAVASCRIPT, TYPESCRIPT, NEXT.JS, REACT, RECOIL, MUI
+    - FRONT: JAVASCRIPT, TYPESCRIPT, REACT, NEXT.JS(PAGE ROUTER, APP ROUTER), RECOIL, MUI
   - SUB
     - BACK: NODE.JS, JAVA, SPRING
     - DB: POSTGRESQL, MYSQL
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ### 성원애드피아 경력
 
-#### 1. ERP 2.0 개발 프로젝트
+#### 1. ERP 1.5V 운영
 
 [기간]
 - 2024.05 ~ 진행중
@@ -40,14 +40,20 @@ Here are some ideas to get you started:
 - 연차관리 담당: 결재프로세스, 일정목록 및 캘린더 구현, 연차 강제 차감을 담당하였습니다.
 - 근태관리 담당: 외근현황 구현 및 프록시 설정을 담당하였습니다.
 - 수당관리 담당: 초과근무프로세스를 담당하였습니다.
+- 사원관리 담당: 사원 조회 및 명세서 수정을 담당하였습니다.
+- 근무조관리 담당: 근무조 변경 및 조횔를ㄹ 담당하였습니다.
 
 [성과]
-- 개발일정 준수율: 개발완료일 준수건 / 개발완료건, 21/21을 유지하여 프로젝트를 100% 성공적으로 완료하였습니다.
-- 배포당 결함 수: 테스트 코드를 적극적으로 활용하여 배포당 결함 수를 최소화하였고, 결함 건수/배포 건수는 3/21로 유지되었습니다.
-- 장애 해결률: 공식문서, CHAT-GPT, 페어 프로그래밍, 소나 큐브 등을 적극적으로 활용하여 장애 해결률을 100%로 높여 개발 안정성을 향상시켰습니다
+- 개발일정 준수율: 개발완료일 준수건 / 개발완료건, 43/43을 유지하여 프로젝트를 100% 성공적으로 완료하였습니다.
+- 배포당 결함 수: 테스트 코드를 적극적으로 활용하여 배포당 결함 수를 최소화하였고, 결함 건수/배포 건수는 5/43로 유지되었습니다.
+- 장애 해결률: 공식문서, CHAT-GPT, 페어 프로그래밍 등을 적극적으로 활용하여 장애 해결률을 100%로 높여 개발 안정성을 향상시켰습니다.
+- 테스트 코드 도입: react-testing library 및 jest를 도입하여 단위 테스트를 적용하였습니다.
+- 팀 교육: 주기적으로 팀원에게 교육을 진행하여 TDD, 객체지향, KPI 산출, 리팩토링 등의 전반적인 개발 스킬을 향상시켰습니다.
 
 [사용 기술]
-- FRONT: Javascript, typescript, React, next.js, recoil, mui
+- FRONT: Javascript, typescript, React, next.js(page router), recoil, mui
+  
+<hr/>
 
 ### 플래티어 경력
 
@@ -72,11 +78,9 @@ Here are some ideas to get you started:
 - 팀 교육: 주기적으로 팀원에게 교육을 진행하여 TDD, 객체지향, KPI 산출, 리팩토링 등의 전반적인 개발 스킬을 향상시켰습니다.
 
 [사용 기술]
-- FRONT: Javascript, typescript, React, next.js, zustand
+- FRONT: Javascript, typescript, React, next.js(APP ROUTER), zustand
 - BACK: Java, SpringBoot
 - DB: PostgreSQL
-
-<hr/>
 
 #### 2. 현대 중고차 이커머스 프로젝트
 
@@ -97,8 +101,6 @@ Here are some ideas to get you started:
 - FRONT: Javascript, JQuery
 - BACK: Java, SpringBoot
 - DB: PostgreSQL
-
-<hr/>
   
 #### 3. SKT 우주 이커머스 프로젝트
 
