@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   - 자기개발: 공식문서 읽기, 기술 블로그 찾아보기, 책 읽기
 - 다음과 같은 기술을 보유하고 있습니다.
   - MAIN
-    - FRONT: JAVASCRIPT, TYPESCRIPT, REACT, NEXT.JS(PAGE ROUTER, APP ROUTER), RECOIL, MUI
+    - FRONT: JAVASCRIPT, TYPESCRIPT, REACT, NEXT.JS(PAGE ROUTER, APP ROUTER), RECOIL, REACT-QUERY, MUI
   - SUB
     - BACK: NODE.JS, JAVA, SPRING
     - DB: POSTGRESQL, MYSQL
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 - 팀 교육: 주기적으로 팀원에게 교육을 진행하여 TDD, 객체지향, KPI 산출, 리팩토링 등의 전반적인 개발 스킬을 향상시켰습니다.
 
 [사용 기술]
-- FRONT: Javascript, typescript, React, next.js(page router), recoil, mui
+- FRONT: JAVASCRIPT, TYPESCRIPT, REACT, NEXT.JS(PAGE ROUTER), RECOIL, REACT-QUERY, MUI
   
 <hr/>
 
@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 - 팀 교육: 주기적으로 팀원에게 교육을 진행하여 TDD, 객체지향, KPI 산출, 리팩토링 등의 전반적인 개발 스킬을 향상시켰습니다.
 
 [사용 기술]
-- FRONT: Javascript, typescript, React, next.js(APP ROUTER), zustand
+- FRONT: JAVASCRIPT, TYPESCRIPT, REACT, NEXT.JS(APP ROUTER), ZUSTAND
   
 #### 2. x2bee 이커머스 솔루션 v1(vue) 프로젝트
 
@@ -95,7 +95,7 @@ Here are some ideas to get you started:
 - 환경 세팅 문서화: vue 환경 세팅 문서화를 통해 업무 효율을 향상시켰습니다.
 
 [사용 기술]
-- FRONT: Javascript, Vue.js, Vuetify, vuex
+- FRONT: JAVASCRIPT, VUE.JS, VUETIFY, VUEX
 
 ## 🔭 STAT
 
