@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ### 성원애드피아 경력
 
-#### 1. ERP 1.5V 운영 프로젝트
+#### 1. ERP 1.5v 운영 프로젝트
 
 [기간]
 - 2024.05 ~ 진행중
