@@ -21,8 +21,9 @@ Here are some ideas to get you started:
   - 자기개발: 공식문서 읽기, 기술 블로그 찾아보기, 책 읽기
 - 다음과 같은 기술을 보유하고 있습니다.
   - MAIN
-    - FRONT: JAVASCRIPT, TYPESCRIPT, REACT, NEXT.JS(PAGE ROUTER, APP ROUTER), RECOIL, REACT-QUERY, MUI
+    - FRONT WEB: JAVASCRIPT, TYPESCRIPT, REACT, NEXT.JS(PAGE ROUTER, APP ROUTER), RECOIL, REACT-QUERY, MUI
   - SUB
+    - FRONT MOBILE: REACT-NATIVE  
     - DEVOPS: AWS CLOUDFRONT, AWS S3, AWS AMPLIFY
 
 
